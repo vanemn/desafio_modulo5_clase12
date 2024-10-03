@@ -16,9 +16,9 @@ Este proyecto Aplicando los conceptos y herramientas aprendidas hasta ahora. En 
  4. La licencia tiene un código, un diagnóstico, una fecha de inicio y una fecha de
  término.
 
-### diagrama_relacional_medico.drawio.pdf
+### diagrama_relacional_medico.drawio1.pdf
 
- El archivo diagrama_relacional_medico.drawio.pdf fue realizado en draw.io y contiene los requerimientos.
+ El archivo diagrama_relacional_medico.drawio1.pdf fue realizado en draw.io y contiene los requerimientos.
  
 ### Prerrequisitos o Dependencias
 Sistema Operativo Windows, Linux, MacOS
